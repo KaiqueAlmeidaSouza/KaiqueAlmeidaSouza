@@ -19,7 +19,7 @@
   <a href = "mailto:contatokaiquealmeida.contatooficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaique-almeida-3a0071229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![snake gif](https://github.com/KaiqueAlmeidaSouza/KaiqueAlmeidaSouza/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/KaiqueAlmeidaSouza/KaiqueAlmeidaSouza/blob/main/.github/workflows/main.yml)
  
 </div>
 
